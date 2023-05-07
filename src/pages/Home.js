@@ -1,5 +1,5 @@
 import React from 'react'
-import Banner from '../assets/8.jpg'
+import Banner from '../assets/homeBackground.jpg'
 import { Link } from 'react-router-dom'
 import '../styles/Home.css'
 function Home() {
