@@ -23,7 +23,7 @@ return (
         <div className='hiddenLinks'>
         <Link to="/">Home</Link>
         <Link to="/menu">Menu</Link>
-        <Link to="/sd">About </Link>
+        <Link to="/about">About </Link>
         <Link to="/ad">Contact</Link>
 
         </div>
@@ -33,8 +33,8 @@ return (
         <div className='rightSide'>
         <Link to='./'>Home</Link>
         <Link to='./menu'>Menu</Link>
-        <Link to='./'>About </Link>
-        <Link to='./'>Contact</Link>
+        <Link to='./about'>About </Link>
+        <Link to='./contact'>Contact</Link>
         <button onClick={buttonFun}>
           <ReorderIcon/>
 
